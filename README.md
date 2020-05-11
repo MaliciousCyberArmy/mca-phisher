@@ -40,8 +40,6 @@ $ pkg update && pkg upgrade
 
 $ pkg install python2
 
-$ pkg install bash
-
 $ pkg install ruby
 
 $ gem install lolcat
