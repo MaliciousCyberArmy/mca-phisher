@@ -10,7 +10,7 @@
 
 2.ANY ERRORS IN TOOL,YOU CAN REPORT IT ON OUR INSTAGRAM PAGE:
 
-https://instagram.com/malicious_cyber_army?igshid=1ebuwoppk4ol9
+https://instagram.com/malicious_cyber_army/
 
 ---SERVICES---
 
